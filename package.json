@@ -1,0 +1,28 @@
+{
+  "name": "tiny-http-proxy",
+  "version": "1.0.0",
+  "description": "Tiny HTTP Proxy",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarquas/tiny-http-proxy.git"
+  },
+  "keywords": [
+    "http",
+    "proxy",
+    "auth",
+    "node",
+    "tunnel",
+    "connect"
+  ],
+  "author": "Taras Mykhailovych",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tarquas/tiny-http-proxy/issues"
+  },
+  "homepage": "https://github.com/tarquas/tiny-http-proxy#readme"
+}
